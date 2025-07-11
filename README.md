@@ -1,3 +1,6 @@
+To download press "code<>" and "download ZIP file" and then run the app (ofc you need R to run it)
+
+
 qRTea Time — How to qPCR like a boss
 
 1. Upload your raw PCR Excel file:

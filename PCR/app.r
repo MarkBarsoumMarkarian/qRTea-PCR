@@ -468,4 +468,4 @@ output$mir_target_table <- renderTable({
   )
 }
 
-shiny::runApp()
+shinyApp(ui = ui, server = server)
